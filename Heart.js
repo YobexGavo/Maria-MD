@@ -22,7 +22,7 @@ let afk = require("./Gallery/lib/afk");
 const { fetchBuffer, buffergif } = require("./Gallery/lib/myfunc2")
 
 /////log
-global.ownernumber = '919931122319' 
+global.ownernumber = '254114140048' 
 //Gallery/database
 let ntilinkall =JSON.parse(fs.readFileSync('./Gallery/database/antilink.json'))
 let _owner = JSON.parse(fs.readFileSync('./Gallery/database/owner.json'))
@@ -55,7 +55,7 @@ var Ayushytimewisher = `Good Morning 🌄`
  if(time2 < "05:00:00"){
 var Ayushytimewisher = `Good Morning 🌄`
  } 
-module.exports = Maria = async (Maria, m, msg, chatUpdate, store) => {
+module.exports = Mystic = async (Mystic, m, msg, chatUpdate, store) => {
     try {
         const {
             type,
